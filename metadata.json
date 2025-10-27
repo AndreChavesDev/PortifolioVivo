@@ -1,0 +1,5 @@
+{
+  "name": "Portfólio Vivo Interativo",
+  "description": "Um portfólio de desenvolvedor full-stack dinâmico com painel de administração, autenticação, e animações interativas. Construído com React, TypeScript, e Tailwind CSS, com um backend simulado.",
+  "requestFramePermissions": []
+}
